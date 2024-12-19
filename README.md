@@ -53,17 +53,19 @@ begin
    
    if(rst)
      
-     out<=0;
+    out<=0;
    
    else 
      
-     out <= out+1;
+    out <= out+1;
 
 end
 
 endmodule 
 
-Developed by: RegisterNumber:
+Developed by:Kowshika.R
+
+RegisterNumber: 24001226
 
 
 **RTL LOGIC UP COUNTER**
